@@ -1,0 +1,2072 @@
+fileFormatVersion: 2
+guid: eb7f6fd747bd540fb83f1518c46f8b51
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1349058306535156889
+    second: robot_left_0
+  - first:
+      213: 1500126573867004907
+    second: robot_left_1
+  - first:
+      213: 4918292013833501690
+    second: robot_left_2
+  - first:
+      213: -2203108507530759549
+    second: robot_left_3
+  - first:
+      213: 9221930961748329825
+    second: robot_left_4
+  - first:
+      213: 807700631714176903
+    second: robot_left_5
+  - first:
+      213: 5446076366434848601
+    second: robot_left_6
+  - first:
+      213: 8057426635715650897
+    second: robot_left_7
+  - first:
+      213: 1446329980661420003
+    second: robot_left_8
+  - first:
+      213: 4840062357190651641
+    second: robot_left_9
+  - first:
+      213: 6970126121372684630
+    second: robot_left_10
+  - first:
+      213: -2564003376777213544
+    second: robot_left_11
+  - first:
+      213: -7079054360233501447
+    second: robot_left_12
+  - first:
+      213: 2311964256093711254
+    second: robot_left_13
+  - first:
+      213: 5516450398963921237
+    second: robot_left_14
+  - first:
+      213: 6659868706857377450
+    second: robot_left_15
+  - first:
+      213: -2980291084573434812
+    second: robot_left_16
+  - first:
+      213: 7671686966600046979
+    second: robot_left_17
+  - first:
+      213: -8166037076473216378
+    second: robot_left_18
+  - first:
+      213: 1277672916686360677
+    second: robot_left_19
+  - first:
+      213: 7579788486690674741
+    second: robot_left_20
+  - first:
+      213: -3385623524241423088
+    second: robot_left_21
+  - first:
+      213: -8306266455870601130
+    second: robot_left_22
+  - first:
+      213: 4611944156239973418
+    second: robot_left_23
+  - first:
+      213: 5915726813449394839
+    second: robot_left_24
+  - first:
+      213: -3500784896774972990
+    second: robot_left_25
+  - first:
+      213: -4617415496670850688
+    second: robot_left_26
+  - first:
+      213: 575286755723089057
+    second: robot_left_27
+  - first:
+      213: 6284250534313070580
+    second: robot_left_28
+  - first:
+      213: 1388446262976347677
+    second: robot_left_29
+  - first:
+      213: -7155215921074867625
+    second: robot_left_30
+  - first:
+      213: 5267438256606643398
+    second: robot_left_31
+  - first:
+      213: -8113010930791052223
+    second: robot_left_32
+  - first:
+      213: 3555385647154061881
+    second: robot_left_33
+  - first:
+      213: -2691142479649170175
+    second: robot_left_34
+  - first:
+      213: -1308117283975264885
+    second: robot_left_35
+  - first:
+      213: 793046086485307303
+    second: robot_left_36
+  - first:
+      213: 81596997661134104
+    second: robot_left_37
+  - first:
+      213: -7844336911477871057
+    second: robot_left_38
+  - first:
+      213: 2101124558948418264
+    second: robot_left_39
+  - first:
+      213: 2577340376048956269
+    second: robot_left_40
+  - first:
+      213: 1531615487967448554
+    second: robot_left_41
+  - first:
+      213: 5416767295293322020
+    second: robot_left_42
+  - first:
+      213: -8244062157226258076
+    second: robot_left_43
+  - first:
+      213: 8953957542201737756
+    second: robot_left_44
+  - first:
+      213: 9050628942699528242
+    second: robot_left_45
+  - first:
+      213: 2094431706278832722
+    second: robot_left_46
+  - first:
+      213: 6081611836132694436
+    second: robot_left_47
+  - first:
+      213: 4817003270437405190
+    second: robot_left_48
+  - first:
+      213: 6841871612768341781
+    second: robot_left_49
+  - first:
+      213: -6841332221756565822
+    second: robot_left_50
+  - first:
+      213: 2557916743267072792
+    second: robot_left_51
+  - first:
+      213: 757519762137797076
+    second: robot_left_52
+  - first:
+      213: 5399970938379472131
+    second: robot_left_53
+  - first:
+      213: -2904714681234890607
+    second: robot_left_54
+  - first:
+      213: 5745033099568373343
+    second: robot_left_55
+  - first:
+      213: 7491684519659361197
+    second: robot_left_56
+  - first:
+      213: -7555187376289253109
+    second: robot_left_57
+  - first:
+      213: 5911984219016742304
+    second: robot_left_58
+  - first:
+      213: -1259326140906735485
+    second: robot_left_59
+  - first:
+      213: -3033824472403034758
+    second: robot_left_60
+  - first:
+      213: -6229637462015162676
+    second: robot_left_61
+  - first:
+      213: -7973607177978456100
+    second: robot_left_62
+  - first:
+      213: -4809915009555906152
+    second: robot_left_63
+  - first:
+      213: -8662779499397555396
+    second: robot_left_64
+  - first:
+      213: 5891255859825677959
+    second: robot_left_65
+  - first:
+      213: -6962011109795915312
+    second: robot_left_66
+  - first:
+      213: 1129931606309416242
+    second: robot_left_67
+  - first:
+      213: -3816123991542157475
+    second: robot_left_68
+  - first:
+      213: 319961957426343037
+    second: robot_left_69
+  - first:
+      213: 8768555674479132221
+    second: robot_left_70
+  - first:
+      213: -494883790291264359
+    second: robot_left_71
+  - first:
+      213: -4051219918905425874
+    second: robot_left_72
+  - first:
+      213: 3232071131888749909
+    second: robot_left_73
+  - first:
+      213: 7499745402466236992
+    second: robot_left_74
+  - first:
+      213: -1226406378218960941
+    second: robot_left_75
+  - first:
+      213: -1702110084478266449
+    second: robot_left_76
+  - first:
+      213: 5460077846633841093
+    second: robot_left_77
+  - first:
+      213: -153202249456104154
+    second: robot_left_78
+  - first:
+      213: -3172002152775007067
+    second: robot_left_79
+  - first:
+      213: -3127470495381094774
+    second: robot_left_80
+  - first:
+      213: 7267391941206010566
+    second: robot_left_81
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: robot_left_0
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1739
+        width: 238
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c6156d161d8b210800000000000000
+      internalID: 1349058306535156889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_1
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1757
+        width: 208
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be37771cb2581d410800000000000000
+      internalID: 1500126573867004907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_2
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1723
+        width: 156
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbbf224788414440800000000000000
+      internalID: 4918292013833501690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_3
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1725
+        width: 116
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382fcf62c7cfc61e0800000000000000
+      internalID: -2203108507530759549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_4
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1731
+        width: 178
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1658f2e8951eaff70800000000000000
+      internalID: 9221930961748329825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_5
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 1757
+        width: 208
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f9e26f177853b00800000000000000
+      internalID: 807700631714176903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_6
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 1723
+        width: 156
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fcff8c999549b40800000000000000
+      internalID: 5446076366434848601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_7
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 1725
+        width: 116
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1552a99c5dab1df60800000000000000
+      internalID: 8057426635715650897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_8
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 1725
+        width: 186
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef42555475621410800000000000000
+      internalID: 1446329980661420003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_9
+      rect:
+        serializedVersion: 2
+        x: 3209
+        y: 1725
+        width: 186
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fea613f11b5b2340800000000000000
+      internalID: 4840062357190651641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_10
+      rect:
+        serializedVersion: 2
+        x: 3529
+        y: 1725
+        width: 186
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651171037ccdab060800000000000000
+      internalID: 6970126121372684630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_11
+      rect:
+        serializedVersion: 2
+        x: 3849
+        y: 1725
+        width: 186
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899ca447384da6cd0800000000000000
+      internalID: -2564003376777213544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_12
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 1469
+        width: 106
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc1a98d09522cd90800000000000000
+      internalID: -7079054360233501447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_13
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 1449
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69badd9dd3fb51020800000000000000
+      internalID: 2311964256093711254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_14
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1419
+        width: 92
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5517e43196e5e8c40800000000000000
+      internalID: 5516450398963921237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_15
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 1405
+        width: 82
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae59faad4b9c6c50800000000000000
+      internalID: 6659868706857377450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_16
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1405
+        width: 74
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c9cb08c01e3a6d0800000000000000
+      internalID: -2980291084573434812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_17
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 1405
+        width: 70
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389903856ae477a60800000000000000
+      internalID: 7671686966600046979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_18
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 1405
+        width: 70
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68205226b886cae80800000000000000
+      internalID: -8166037076473216378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_19
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 1469
+        width: 106
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5605a329fb43bb110800000000000000
+      internalID: 1277672916686360677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_20
+      rect:
+        serializedVersion: 2
+        x: 2933
+        y: 1449
+        width: 102
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5381bcd1871d03960800000000000000
+      internalID: 7579788486690674741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_21
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 1419
+        width: 92
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015426ea759d301d0800000000000000
+      internalID: -3385623524241423088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_22
+      rect:
+        serializedVersion: 2
+        x: 3585
+        y: 1405
+        width: 82
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6580718baa63abc80800000000000000
+      internalID: -8306266455870601130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_23
+      rect:
+        serializedVersion: 2
+        x: 3867
+        y: 1411
+        width: 178
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c4f9466cae00040800000000000000
+      internalID: 4611944156239973418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_24
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1085
+        width: 184
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a97e7a132e81250800000000000000
+      internalID: 5915726813449394839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_25
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1085
+        width: 184
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9dca03fa6ba6fc0800000000000000
+      internalID: -3500784896774972990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_26
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1085
+        width: 184
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081dc84e115abefb0800000000000000
+      internalID: -4617415496670850688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_27
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 1085
+        width: 152
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a49cde9144dbf700800000000000000
+      internalID: 575286755723089057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_28
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1085
+        width: 174
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff0a49c094263750800000000000000
+      internalID: 6284250534313070580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_29
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 1085
+        width: 194
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e7c661580c44310800000000000000
+      internalID: 1388446262976347677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_30
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 1085
+        width: 214
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752fc1d970193bc90800000000000000
+      internalID: -7155215921074867625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_31
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 1085
+        width: 94
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c48751bf23b91940800000000000000
+      internalID: 5267438256606643398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_32
+      rect:
+        serializedVersion: 2
+        x: 2929
+        y: 1111
+        width: 100
+        height: 284
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c86530b8bc86f80800000000000000
+      internalID: -8113010930791052223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_33
+      rect:
+        serializedVersion: 2
+        x: 3245
+        y: 1139
+        width: 102
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932e32aa864475130800000000000000
+      internalID: 3555385647154061881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_34
+      rect:
+        serializedVersion: 2
+        x: 3559
+        y: 1151
+        width: 110
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d1c8c4c2427aad0800000000000000
+      internalID: -2691142479649170175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_35
+      rect:
+        serializedVersion: 2
+        x: 3877
+        y: 1151
+        width: 112
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b850b1cc242a8dde0800000000000000
+      internalID: -1308117283975264885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_36
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 765
+        width: 190
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af6873c637710b00800000000000000
+      internalID: 793046086485307303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_37
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 765
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d845c7904e12100800000000000000
+      internalID: 81596997661134104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_38
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 765
+        width: 190
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e60ecd321532390800000000000000
+      internalID: -7844336911477871057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_39
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 765
+        width: 190
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d248f477a1b82d10800000000000000
+      internalID: 2101124558948418264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_40
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 765
+        width: 184
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d637babaa6d84c320800000000000000
+      internalID: 2577340376048956269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_41
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 765
+        width: 184
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed49c4eb24614510800000000000000
+      internalID: 1531615487967448554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_42
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 765
+        width: 184
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42379e2e7293c2b40800000000000000
+      internalID: 5416767295293322020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_43
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 765
+        width: 184
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461d94c9525379d80800000000000000
+      internalID: -8244062157226258076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_44
+      rect:
+        serializedVersion: 2
+        x: 2869
+        y: 765
+        width: 184
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c124ddcc1f8d24c70800000000000000
+      internalID: 8953957542201737756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_45
+      rect:
+        serializedVersion: 2
+        x: 3189
+        y: 765
+        width: 184
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2308973321b4a9d70800000000000000
+      internalID: 9050628942699528242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_46
+      rect:
+        serializedVersion: 2
+        x: 3509
+        y: 765
+        width: 184
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25aa0134a8ae01d10800000000000000
+      internalID: 2094431706278832722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_47
+      rect:
+        serializedVersion: 2
+        x: 3829
+        y: 765
+        width: 184
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a910824eb9366450800000000000000
+      internalID: 6081611836132694436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_48
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 513
+        width: 172
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6020150f3fe69d240800000000000000
+      internalID: 4817003270437405190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_49
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 721
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51fc2e56bf533fe50800000000000000
+      internalID: 6841871612768341781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_50
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 481
+        width: 306
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c614cb5794be01a0800000000000000
+      internalID: -6841332221756565822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_51
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 637
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b357fb9bb8f7320800000000000000
+      internalID: 2557916743267072792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_52
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 631
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1df8cc530438a00800000000000000
+      internalID: 757519762137797076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_53
+      rect:
+        serializedVersion: 2
+        x: 2887
+        y: 605
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d8a8b45fc80fa40800000000000000
+      internalID: 5399970938379472131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_54
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 635
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190e123236160b7d0800000000000000
+      internalID: -2904714681234890607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_55
+      rect:
+        serializedVersion: 2
+        x: 2941
+        y: 637
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e52a26a257abf40800000000000000
+      internalID: 5745033099568373343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_56
+      rect:
+        serializedVersion: 2
+        x: 3183
+        y: 445
+        width: 190
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3d693c06fc7f760800000000000000
+      internalID: 7491684519659361197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_57
+      rect:
+        serializedVersion: 2
+        x: 3503
+        y: 445
+        width: 190
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0973c04c15962790800000000000000
+      internalID: -7555187376289253109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_58
+      rect:
+        serializedVersion: 2
+        x: 3823
+        y: 445
+        width: 190
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5453cf2569b0250800000000000000
+      internalID: 5911984219016742304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_59
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 629
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388f3ea0c89f58ee0800000000000000
+      internalID: -1259326140906735485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_60
+      rect:
+        serializedVersion: 2
+        x: 2863
+        y: 445
+        width: 190
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7db78b57b0b5e5d0800000000000000
+      internalID: -3033824472403034758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_61
+      rect:
+        serializedVersion: 2
+        x: 2543
+        y: 445
+        width: 192
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6ce1dfbb1eb89a0800000000000000
+      internalID: -6229637462015162676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_62
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 609
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7d612848e085190800000000000000
+      internalID: -7973607177978456100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_63
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 497
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891c99768cfbf3db0800000000000000
+      internalID: -4809915009555906152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_64
+      rect:
+        serializedVersion: 2
+        x: 1287
+        y: 513
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b5fd251ff97c780800000000000000
+      internalID: -8662779499397555396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_65
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 517
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78619d5cdf1f1c150800000000000000
+      internalID: 5891255859825677959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_66
+      rect:
+        serializedVersion: 2
+        x: 1387
+        y: 507
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d99a4e28c7f16f90800000000000000
+      internalID: -6962011109795915312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_67
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 445
+        width: 190
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d2f8e2fc25eaf00800000000000000
+      internalID: 1129931606309416242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_68
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 445
+        width: 194
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fa849c2776a0bc0800000000000000
+      internalID: -3816123991542157475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_69
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 445
+        width: 192
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c290e74bbb07400800000000000000
+      internalID: 319961957426343037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_70
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 501
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e709a9dea20b970800000000000000
+      internalID: 8768555674479132221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_71
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 509
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c179290d1d129f0800000000000000
+      internalID: -494883790291264359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_72
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 445
+        width: 190
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20c7a2b2fc27c7c0800000000000000
+      internalID: -4051219918905425874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_73
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 445
+        width: 190
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55d0609f19f9adc20800000000000000
+      internalID: 3232071131888749909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_74
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 157
+        width: 136
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a7edb45b2741860800000000000000
+      internalID: 7499745402466236992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_75
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 201
+        width: 174
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d74cf395edeafee0800000000000000
+      internalID: -1226406378218960941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_76
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 201
+        width: 174
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3101675e3e068e0800000000000000
+      internalID: -1702110084478266449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_77
+      rect:
+        serializedVersion: 2
+        x: 2891
+        y: 193
+        width: 172
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1079e6fd716cb40800000000000000
+      internalID: 5460077846633841093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_78
+      rect:
+        serializedVersion: 2
+        x: 3003
+        y: 401
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dc066ad57bfddf0800000000000000
+      internalID: -153202249456104154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_79
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 201
+        width: 174
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4421919d8caf3d0800000000000000
+      internalID: -3172002152775007067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_80
+      rect:
+        serializedVersion: 2
+        x: 3531
+        y: 189
+        width: 186
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e7b4d872ef894d0800000000000000
+      internalID: -3127470495381094774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot_left_81
+      rect:
+        serializedVersion: 2
+        x: 3851
+        y: 201
+        width: 174
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caee1b5776fad460800000000000000
+      internalID: 7267391941206010566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
